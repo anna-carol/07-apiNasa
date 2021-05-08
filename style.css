@@ -1,0 +1,33 @@
+body{
+    background-image: url("image/sky.png");
+    background-color: #000048;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ffffff;
+    margin:18%;
+    text-align: center;
+    font-family: monospace;
+}
+#foto{
+    height:300px;
+    width:300px;
+}
+#foto img{
+    height: 100%;
+}
+#titulo{
+    width:80%;
+}
+#botao{
+    background-color: rgba(85, 81, 81, 0.253);
+    color: #ffffff;
+    margin: 2px solid #000048
+}
+#data{
+    margin:5px;
+}
+div{
+    margin: 10px;
+}
